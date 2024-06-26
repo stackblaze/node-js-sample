@@ -1,4 +1,4 @@
-### This repository! 5
+### This repository! 6
 
 **For the most up to date test app to get you started on Heroku, head on over to [`node-js-getting-started`](https://github.com/heroku/node-js-getting-started).**
 
